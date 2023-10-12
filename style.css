@@ -1,0 +1,135 @@
+body {
+  background-color: #ffffff;
+}
+
+.city-picture {
+width: 500px;
+}
+
+.ausrine-picture-1 {
+  width: 250px;
+}
+
+.ausrine-picture-2 {
+  width: 250px;
+  align-items: center;
+}
+
+.ausrine-picture-9 {
+  width: 500px;
+}
+
+.ausrine-picture-10 {
+  align-items: center;
+  width: 1000px;
+}
+
+.ausrine-picture-11 {
+  width: 240px;
+  margin: 0px 0px 0px 0px;
+}
+
+.ausrine-picture-12 {
+  width: 250px;
+  margin: 0px 0px 0px 250px;
+}
+
+.ausrine-picture-13 {
+  width: 1000px;
+  margin: 10px 10px 30px 0px;
+}
+
+.call_to_action_button {
+  border: 1px solid black;
+  border-radius: 500px;
+  padding: 10px;
+  width: 300px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.call_to_action_button:hover{
+  border: 1px solid black;
+  border-radius: 500px;
+  background-color: #EBD5BC;
+  padding: 10px;
+  width: 300px;
+  text-align: center;
+  margin: 0 auto;
+  color: white;
+}
+
+.call_to_action_button a{
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+}
+
+
+.my-logo {
+  width: 200px;
+}
+
+
+#container {
+  width: 1100px;
+  margin: 0 auto;
+}
+ul {
+list-style-type: none;
+font-size: 20px;
+font-family: 'Montserrat', monospace;
+margin: 50px 0 0 0px;
+padding: 0;
+overflow: hidden;
+background-color: #ffffff;
+}
+
+li {
+float: right;
+}
+
+li a {
+display: block;
+color: black;
+text-align: center;
+padding: 0px 16px;
+text-decoration: none;
+}
+
+li a:hover {
+color: black;
+}
+
+h1 {
+  align-items: center;
+  font-family: 'Cormorant Garamond', sans-serif;
+  color: #403426;
+}
+
+h2 {
+  font-family: 'Cormorant Garamond', sans-serif;
+  color: #403426;
+}
+
+p {
+  font-family: 'Montserrat', monospace;
+  color: #403426;
+}
+
+.two-column {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  padding: 40px 40px 40px 0px ;
+}
+
+.two-column div {
+  margin-right: 10px;
+  background-color: #fff;
+}
+
+
+footer {
+  background-color: #ffffff;
+  padding: 40px;
+}
