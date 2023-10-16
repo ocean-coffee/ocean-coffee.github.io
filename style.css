@@ -7,11 +7,23 @@ width: 500px;
 }
 
 .ausrine-picture-1 {
-  width: 250px;
+  width: 230px;
+  padding-left: 40px;
 }
 
 .ausrine-picture-2 {
-  width: 250px;
+  width: 230px;
+  align-items: center;
+}
+
+.ausrine-picture-3 {
+  width: 230px;
+  align-items: center;
+  padding-left: 40px;
+}
+
+.ausrine-picture-4 {
+  width: 230px;
   align-items: center;
 }
 
@@ -23,6 +35,7 @@ width: 500px;
 
 .ausrine-picture-10 {
   width: 550px;
+  padding-left: 40px;
 }
 
 .ausrine-picture-11 {
@@ -123,6 +136,22 @@ p {
   display: grid;
   grid-template-columns: 50% 50%;
   padding: 40px 40px 40px 0px ;
+}
+
+#first-column {
+  grid-template-columns: 70% 30%;
+}
+
+#second-column {
+  grid-template-columns: 30% 70%;
+}
+
+#third-column {
+  grid-template-columns: 70% 30%;
+}
+
+#fourth-column {
+  grid-template-columns: 30% 70%;
 }
 
 .two-column div {
