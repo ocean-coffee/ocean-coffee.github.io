@@ -16,21 +16,22 @@ width: 500px;
 }
 
 .ausrine-picture-9 {
-  width: 500px;
+  align-items: center;
+  margin: 0px 0px 20px 0px;
+  width: 1100px;
 }
 
 .ausrine-picture-10 {
-  align-items: center;
-  width: 1000px;
+  width: 550px;
 }
 
 .ausrine-picture-11 {
-  width: 240px;
+  width: 300px;
   margin: 0px 0px 0px 0px;
 }
 
 .ausrine-picture-12 {
-  width: 250px;
+  width: 300px;
   margin: 0px 0px 0px 250px;
 }
 
@@ -67,7 +68,7 @@ width: 500px;
 
 
 .my-logo {
-  width: 200px;
+  width: 180px;
 }
 
 
@@ -98,23 +99,24 @@ text-decoration: none;
 }
 
 li a:hover {
-color: black;
+color: #D1BAAA;
 }
 
 h1 {
   align-items: center;
-  font-family: 'Cormorant Garamond', sans-serif;
+  font-family: sans-serif;
   color: #403426;
 }
 
 h2 {
-  font-family: 'Cormorant Garamond', sans-serif;
+  font-family: sans-serif;
   color: #403426;
 }
 
 p {
   font-family: 'Montserrat', monospace;
   color: #403426;
+  margin: 0px 0px 30px 0px;
 }
 
 .two-column {
